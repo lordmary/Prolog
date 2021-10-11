@@ -1,2 +1,2 @@
 # Prolog
-Programação Lógica
+Exercícios variados de programação lógica(prolog).
